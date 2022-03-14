@@ -14,7 +14,7 @@ By using Natual language Processing model, we can recognize tweets and get real 
 
 # 3 Data Loading and cleaning
 
-## Import data
+## Import data https://www.kaggle.com/c/nlp-getting-started/overview
 ## data cleaning
 
 # 4 EDA
