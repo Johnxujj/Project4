@@ -59,10 +59,6 @@ Github link: https://github.com/Johnxujj/Project4.git
 
 Files:
 
-test.csv - the test set
-
-train.csv - the training set
-
 project4.ipynb NLP python program
 
 README.md intro to this project
@@ -72,6 +68,10 @@ Folder:
 Image - histogram generated for data visualization
 
 data - original dataset package
+
+## test.csv - the test set
+
+## train.csv - the training set
 
 File not upload:
 
