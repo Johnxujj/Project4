@@ -69,9 +69,9 @@ Image - histogram generated for data visualization
 
 data - original dataset package
 
-## test.csv - the test set
+### test.csv - the test set
 
-## train.csv - the training set
+### train.csv - the training set
 
 File not upload:
 
