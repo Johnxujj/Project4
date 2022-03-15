@@ -63,11 +63,15 @@ test.csv - the test set
 
 train.csv - the training set
 
-sample_submission.csv - a sample submission file in the correct format
-
-code.ipynb NLP python program
+project.ipynb NLP python program
 
 README.md intro to this project
+
+Folder:
+
+Image - histogram generated for data visualization
+
+data - original dataset package
 
 File not upload:
 
