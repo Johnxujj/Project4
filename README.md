@@ -63,7 +63,7 @@ test.csv - the test set
 
 train.csv - the training set
 
-project.ipynb NLP python program
+project4.ipynb NLP python program
 
 README.md intro to this project
 
